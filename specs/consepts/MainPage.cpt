@@ -1,0 +1,11 @@
+
+# Web'te ana sayfaya gidilir.
+* "5" saniye kadar beklenir.
+
+# Cerezler Kabul Edilir.
+* "AcceptPopupButton" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+/* "Close" 'li elemente görünür ise  tıklanır.
+# Giris Yap Butonuna Tıklanir
+*"1" saniye kadar beklenir.
+*"LoginClick" 'li elemente görünür ise  tıklanır.

@@ -1,0 +1,10 @@
+Created by nMn on 14.11.2022
+
+This is a concept file with following syntax for each concept.
+# Login Bilgileri Girilir.
+* "UserName" 'li elemente "testautomationdeneme@gmail.com" degeri girilir.
+*  "1" saniye kadar beklenir.
+* "Password" 'li elemente "0018000Na" degeri girilir.
+* "1" saniye kadar beklenir.
+* "LoginSubmit" li elemente tıklanır.
+*  "15" saniye kadar beklenir.
