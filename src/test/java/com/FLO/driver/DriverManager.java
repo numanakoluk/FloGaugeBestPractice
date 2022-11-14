@@ -50,7 +50,7 @@ public class DriverManager {
     public static boolean IS_ANDROID;
     public static boolean IS_IOS;
 
-    private final String WEB_URL = "https://Flo.com/";
+    private final String WEB_URL = "https://www.flo.com.tr/";
     private final Logger logger;
 
     public DriverManager() {
