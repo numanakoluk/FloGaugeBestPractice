@@ -9,6 +9,8 @@ Tags:chrome
 *Cerezler Kabul Edilir.
 *Giris Yap Butonuna Tıklanir
 *Login Bilgileri Girilir.
+*Ürün Özellikleri Secilir.
+*Sepet İslemleri Yapilir.
 
 
 AllSteps Mobile Scenario

@@ -1,0 +1,19 @@
+Created by nMn on 15.11.2022
+
+This is a concept file with following syntax for each concept.
+# Ürün Özellikleri Secilir.
+* "PropertyMan" 'li elemente görünür ise  tıklanır.
+* "3" saniye kadar beklenir.
+* "PropertyList" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "PropertySize" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "PropertyFavorite" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "PropertyBasketClick" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "GoBasketButton" 'li elemente görünür ise  tıklanır.
+* "3" saniye kadar beklenir.
+
+
+
