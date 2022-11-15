@@ -11,6 +11,7 @@ Tags:chrome
 *Login Bilgileri Girilir.
 *Ürün Özellikleri Secilir.
 *Sepet İslemleri Yapilir.
+*Adres Bilgileri Girilir.
 
 
 AllSteps Mobile Scenario

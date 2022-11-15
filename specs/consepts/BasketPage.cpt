@@ -1,0 +1,29 @@
+Created by nMn on 15.11.2022
+
+This is a concept file with following syntax for each concept.
+# Sepet İslemleri Yapilir.
+*"2" saniye kadar beklenir.
+* "ApproveBasketButton" 'li elemente görünür ise  tıklanır.
+# Adres Bilgileri Girilir.
+*"1" saniye kadar beklenir.
+* "AddAdress" 'li elemente görünür ise  tıklanır.
+*"1" saniye kadar beklenir.
+* "AdressTitle" 'li elemente "Ev Adresi Test" degeri girilir.
+*"1" saniye kadar beklenir.
+* "AdressUserFirstName" 'li elemente "deneme isim" degeri girilir.
+*"1" saniye kadar beklenir.
+* "AdressUserLastName" 'li elemente "deneme soyisim" degeri girilir.
+*"1" saniye kadar beklenir.
+* "AdressUserPhone" 'li elemente "55 555 55 55" degeri girilir.
+*"1" saniye kadar beklenir.
+* "SelectCityButton" 'li elemente görünür ise  tıklanır.
+* "SelectCity" 'li elemente görünür ise  tıklanır.
+*"1" saniye kadar beklenir.
+* "SelectDistincButton" 'li elemente görünür ise  tıklanır.
+* "SelectDistinc" 'li elemente görünür ise  tıklanır.
+*"1" saniye kadar beklenir.
+* "AddressWriteArea" 'li elemente "Ev Adresi Tarifi Test" degeri girilir.
+*"1" saniye kadar beklenir.
+* "SaveAdress" 'li elemente görünür ise  tıklanır.
+*"1" saniye kadar beklenir.
+
