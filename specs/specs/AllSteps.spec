@@ -17,6 +17,12 @@ Tags:chrome
 AllSteps Mobile Scenario
 -------------------------
 Tags:android
+*Android'te ana sayfaya gidilir.
+*Android'te Giris Yap Butonuna Tıklanir
+*Android'te Login Bilgileri Girilir.
+*Android'te Ürün Özellikleri Secilir.
+//*Android'te Sepet İslemleri Yapilir.
+//*Android'te Adres Bilgileri Girilir.
 
 
 

@@ -218,8 +218,8 @@ public class DriverManager {
         desiredCapabilitiesAndroid.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
         desiredCapabilitiesAndroid.setCapability(MobileCapabilityType.DEVICE_NAME, "Android");
         desiredCapabilitiesAndroid.setCapability(MobileCapabilityType.UDID, "RZ8N20VXT4Z");
-        desiredCapabilitiesAndroid.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "org.studionord.a101");
-        desiredCapabilitiesAndroid.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, "org.studionord.a101.MainActivity");
+        desiredCapabilitiesAndroid.setCapability(AndroidMobileCapabilityType.APP_PACKAGE, "com.flo.ayakkabi");
+        desiredCapabilitiesAndroid.setCapability(AndroidMobileCapabilityType.APP_ACTIVITY, "app.presentation.main.MainActivity");
         desiredCapabilitiesAndroid.setCapability(MobileCapabilityType.NO_RESET, false);
         desiredCapabilitiesAndroid.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 300);
         desiredCapabilitiesAndroid.setCapability("unicodeKeyboard", false);

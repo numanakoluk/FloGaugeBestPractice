@@ -16,5 +16,23 @@ This is a concept file with following syntax for each concept.
 * "3" saniye kadar beklenir.
 
 
+# Android'te Ürün Özellikleri Secilir.
+* "PropertyWomanButton" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "SelectWomanButton" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "SelectCategoryButton" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "SelectAllShoesButton" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "SelectShoesList" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+
+
+
+
+
+
+
 
 

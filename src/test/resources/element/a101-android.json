@@ -1,44 +1,63 @@
 [
   {
-    "keyword": "OptionsButtonAnd",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='\uE90F']",
+    "keyword": "AccountsButton",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/nav_profile",
     "deviceInfo": "android"
   },
   {
-    "keyword": "SingInRegisterButton",
+    "keyword": "EmailText",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='Giriş Yap / Üye Ol']",
+    "locatorValue": "//*[@text='E-Posta Adresiniz']",
     "deviceInfo": "android"
   },
   {
-    "keyword": "CreateAccountButton",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='HESAP OLUŞTUR']",
+    "keyword": "PasswordText",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/txtPass",
     "deviceInfo": "android"
   },
   {
-    "keyword": "Name",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='Ad']",
+    "keyword": "LoginButton",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/login",
     "deviceInfo": "android"
   },
   {
-    "keyword": "Surname",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='Soyad']",
+    "keyword": "MainPageButton",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/nav_home",
     "deviceInfo": "android"
   },
   {
-    "keyword": "EmailAnd",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='E-posta Adresiniz']",
+    "keyword": "PropertyWomanButton",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/txtFilter",
     "deviceInfo": "android"
   },
   {
-    "keyword": "PhoneNumberAnd",
+    "keyword": "SelectWomanButton",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='Cep Telefonu 0 (555) 555 55 55']",
+    "locatorValue": "//*[@text='Kadın']",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectCategoryButton",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/nav_categories",
+    "deviceInfo": "android"
+  },
+  {
+    "keyword": "SelectAllShoesButton",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@text='TÜM AYAKKABILAR']",
+    "deviceInfo": "android"
+  },
+
+  {
+    "keyword": "SelectShoesList",
+    "locatorType": "xpath",
+    "locatorValue": "(//*[@resource-id=\"com.flo.ayakkabi:id/rootView\"])[0]",
     "deviceInfo": "android"
   },
   {

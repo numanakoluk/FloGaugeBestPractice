@@ -1,7 +1,6 @@
 
 # Web'te ana sayfaya gidilir.
 * "3" saniye kadar beklenir.
-
 # Cerezler Kabul Edilir.
 * "AcceptPopupButton" 'li elemente görünür ise  tıklanır.
 * "1" saniye kadar beklenir.
@@ -9,4 +8,10 @@
 * "1" saniye kadar beklenir.
 * "LoginClick" 'li elemente görünür ise  tıklanır.
 * "3" saniye kadar beklenir.
+
+
+#Android'te ana sayfaya gidilir.
+* "3" saniye kadar beklenir.
+#Android'te Giris Yap Butonuna Tıklanir
+* "AccountsButton" 'li elemente görünür ise  tıklanır.
 

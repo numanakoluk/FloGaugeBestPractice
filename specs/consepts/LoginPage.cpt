@@ -10,3 +10,12 @@ Created by nMn on 14.11.2022
 * "LoginClickPassword" li elemente tıklanır.
 * "2" saniye kadar beklenir.
 
+
+# Android'te Login Bilgileri Girilir.
+*  "1" saniye kadar beklenir.
+* "EmailText" 'li elemente "testautomationdeneme@gmail.com" degeri girilir.
+*  "1" saniye kadar beklenir.
+* "PasswordText" 'li elemente "0018000Na" degeri girilir.
+* "LoginButton" li elemente tıklanır.
+* "MainPageButton" li elemente tıklanır.
+
