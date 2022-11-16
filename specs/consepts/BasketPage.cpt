@@ -10,11 +10,11 @@ This is a concept file with following syntax for each concept.
 *"1" saniye kadar beklenir.
 * "AdressTitle" 'li elemente "Ev Adresi Test" degeri girilir.
 *"1" saniye kadar beklenir.
-* "AdressUserFirstName" 'li elemente "deneme isim" degeri girilir.
+* "AdressUserFirstName" 'li elemente "Numan" degeri girilir.
 *"1" saniye kadar beklenir.
-* "AdressUserLastName" 'li elemente "deneme soyisim" degeri girilir.
+* "AdressUserLastName" 'li elemente "Akoluk" degeri girilir.
 *"1" saniye kadar beklenir.
-* "AdressUserPhone" 'li elemente "55 555 55 55" degeri girilir.
+* "AdressUserPhone" 'li elemente "507 0656152" degeri girilir.
 *"1" saniye kadar beklenir.
 * "SelectCityButton" 'li elemente görünür ise  tıklanır.
 * "SelectCity" 'li elemente görünür ise  tıklanır.
@@ -25,5 +25,10 @@ This is a concept file with following syntax for each concept.
 * "AddressWriteArea" 'li elemente "Ev Adresi Tarifi Test" degeri girilir.
 *"1" saniye kadar beklenir.
 * "SaveAdress" 'li elemente görünür ise  tıklanır.
-*"1" saniye kadar beklenir.
+*"2" saniye kadar beklenir.
+* "ProccessCancel" 'li elemente görünür ise  tıklanır.
+*"2" saniye kadar beklenir.
+* "PaymentProccessButton" 'li elemente görünür ise  tıklanır.
+
+
 

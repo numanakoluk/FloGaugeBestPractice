@@ -104,7 +104,7 @@
   {
     "keyword": "AdressUserPhone",
     "locatorType": "xpath",
-    "locatorValue": "(//input[@type=\"tel\"][1])",
+    "locatorValue": "(//input[@placeholder=\"Cep Telefonu\"])[1]",
     "deviceInfo": "web"
   },
   {
@@ -141,6 +141,18 @@
     "keyword": "SaveAdress",
     "locatorType": "xpath",
     "locatorValue": "//button[@title='KAYDET']",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "ProccessCancel",
+    "locatorType": "xpath",
+    "locatorValue": "//button[text()=\"VAZGEÇ\"]",
+    "deviceInfo": "web"
+  },
+  {
+    "keyword": "PaymentProccessButton",
+    "locatorType": "xpath",
+    "locatorValue": "(//button[text()=\"ÖDEME ADIMINA GEÇ\"])[1]",
     "deviceInfo": "web"
   }
 ]
