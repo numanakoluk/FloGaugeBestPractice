@@ -6,6 +6,13 @@
     "deviceInfo": "android"
   },
   {
+    "keyword": "PopUpClose",
+    "locatorType": "xpath",
+    "locatorValue": "//*[@resource-id=\"spin-to-win-box-close\"]",
+    "deviceInfo": "android"
+  },
+
+  {
     "keyword": "EmailText",
     "locatorType": "xpath",
     "locatorValue": "//*[@text='E-Posta Adresiniz']",
@@ -50,38 +57,38 @@
   {
     "keyword": "SelectAllShoesButton",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='TÜM AYAKKABILAR']",
+    "locatorValue": "//*[@text='YENİ GELENLER']",
     "deviceInfo": "android"
   },
 
   {
     "keyword": "SelectShoesList",
     "locatorType": "xpath",
-    "locatorValue": "(//*[@resource-id=\"com.flo.ayakkabi:id/rootView\"])[0]",
+    "locatorValue": "(//*[@resource-id=\"com.flo.ayakkabi:id/product_name\"])[1]",
     "deviceInfo": "android"
   },
   {
-    "keyword": "PasswordAnd",
+    "keyword": "SelectShoesSize",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='Şifre']",
+    "locatorValue": "(//*[@resource-id=\"com.flo.ayakkabi:id/textView\"])[1]",
     "deviceInfo": "android"
   },
   {
-    "keyword": "InformationEmailButton",
-    "locatorType": "xpath",
-    "locatorValue": "//*[@text='Bilgilendirme e-postalarını almak istiyorum']",
+    "keyword": "AddToBaskett",
+    "locatorType": "id",
+    "locatorValue": "com.flo.ayakkabi:id/addToCart",
     "deviceInfo": "android"
   },
   {
-    "keyword": "InformationSmsButton",
+    "keyword": "GoToBaskett",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='Bilgilendirme SMS’lerini almak istiyorum']",
+    "locatorValue": "//*[@resource-id=\"com.flo.ayakkabi:id/basket_layout\"]",
     "deviceInfo": "android"
   },
   {
-    "keyword": "ContractApproveButton",
+    "keyword": "ApproveToBaskett",
     "locatorType": "xpath",
-    "locatorValue": "//*[@text='Lütfen üyelik sözleşmesini onaylayınız.']",
+    "locatorValue": "//*[@text='SEPETİ ONAYLA']",
     "deviceInfo": "android"
   },
   {

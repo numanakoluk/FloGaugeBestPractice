@@ -14,4 +14,6 @@
 * "3" saniye kadar beklenir.
 #Android'te Giris Yap Butonuna Tıklanir
 * "AccountsButton" 'li elemente görünür ise  tıklanır.
+* "2" saniye kadar beklenir.
+* "PopUpClose" 'li elemente görünür ise  tıklanır.
 

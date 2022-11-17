@@ -27,6 +27,16 @@ This is a concept file with following syntax for each concept.
 * "1" saniye kadar beklenir.
 * "SelectShoesList" 'li elemente görünür ise  tıklanır.
 * "1" saniye kadar beklenir.
+* "1" defa scroll edilir.
+* "1" saniye kadar beklenir.
+* "SelectShoesSize" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "AddToBaskett" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
+* "GoToBaskett" 'li elemente görünür ise  tıklanır.
+* "4" saniye kadar beklenir.
+* "ApproveToBaskett" 'li elemente görünür ise  tıklanır.
+* "1" saniye kadar beklenir.
 
 
 

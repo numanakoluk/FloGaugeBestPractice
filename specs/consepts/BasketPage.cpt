@@ -14,7 +14,7 @@ This is a concept file with following syntax for each concept.
 *"1" saniye kadar beklenir.
 * "AdressUserLastName" 'li elemente "Akoluk" degeri girilir.
 *"1" saniye kadar beklenir.
-* "AdressUserPhone" 'li elemente "507 0656152" degeri girilir.
+* "AdressUserPhone" 'li elemente "0 (555) 555 55 55" degeri girilir.
 *"1" saniye kadar beklenir.
 * "SelectCityButton" 'li elemente görünür ise  tıklanır.
 * "SelectCity" 'li elemente görünür ise  tıklanır.
